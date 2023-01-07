@@ -2,8 +2,8 @@
 :root {
     --main-bg: radial-gradient(ellipse at center,rgba(0, 255, 119, 0.1) 0,rgba(0,255,119,0) 100%) center center/cover no-repeat fixed, 
     url(/css/addons/unraid/login-page/alien/wallpaper/hallway2.jpg) center center/cover no-repeat fixed;
-    --logo: url(/css/addons/unraid/login-page/alien/logo/nostromogreen2.png) center no-repeat;
-    --text-color: #37f592;
+    --logo: url(/css/addons/unraid/login-page/alien/logo/wings_yellow.png) center no-repeat;
+    --text-color: #FFFF00;
     --input-color: #37f592;
     --link-color: #37f592;
     --link-color-hover: #68ffff;
