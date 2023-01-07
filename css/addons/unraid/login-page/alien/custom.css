@@ -2,7 +2,7 @@
 :root {
     --main-bg: radial-gradient(ellipse at center,rgba(0, 255, 119, 0.1) 0,rgba(0,255,119,0) 100%) center center/cover no-repeat fixed, 
     url("https://static.vecteezy.com/system/resources/previews/005/492/176/non_2x/background-with-honeycomb-texture-free-vector.jpg") center center/cover no-repeat fixed;
-    --logo: url(/css/addons/unraid/login-page/alien/logo/wings_yellow.png) center no-repeat;
+    --logo: url("https://randomhappysack.github.io/theme.park.hive/css/addons/unraid/login-page/alien/logo/logo.png") center no-repeat;
     --text-color: #FFFF00;
     --input-color: #FFFF00;
     --link-color: #FFFF00;
